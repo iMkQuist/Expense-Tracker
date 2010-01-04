@@ -9,6 +9,7 @@
     {
       "size" : "16x16",
       "idiom" : "mac",
+
       "filename" : "app_icon_32.png",
       "scale" : "2x"
     },
